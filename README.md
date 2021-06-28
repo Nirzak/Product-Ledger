@@ -1,0 +1,2 @@
+Product-Ledger is a command line based software to add, delete and maintain the records of Products. 
+The records include buying and selling of a particular product and also the aquired profit selling that product.
